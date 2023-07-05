@@ -1,0 +1,4 @@
+int FindMin(int[] array)
+{
+    return array.Min();
+}
